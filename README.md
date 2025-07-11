@@ -53,14 +53,6 @@ OCR pipeline that extracts medication names, dosages, duration, and structures o
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saitejakodati6777&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🎓 Education
 
 - **B.Tech in CSE (AI & ML)** (2022 – 2026)  
