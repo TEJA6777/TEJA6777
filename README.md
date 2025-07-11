@@ -56,7 +56,7 @@ OCR pipeline that extracts medication names, dosages, duration, and structures o
 ## 🎓 Education
 
 - **B.Tech in CSE (AI & ML)** (2022 – 2026)  
-  Manav Rachna University, Faridabad — CGPA: 8.56
+  Manav Rachna University, Faridabad
 
 - **Intermediate (MPC)** (2020 – 2022)  
   Narayana Junior College, Hyderabad
