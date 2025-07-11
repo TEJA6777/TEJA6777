@@ -1,72 +1,82 @@
-# 👋 Kodati Sai Teja  
+<!--
+  ────────────────────────────────────────────────────────────────────────────
+  Hi 👋, I’m Sai Teja Kodati — Data Analyst & ML/DL enthusiast turning data into 
+  actionable insights. Welcome to my GitHub!
+  ────────────────────────────────────────────────────────────────────────────
+-->
 
-🚀 Passionate *Data Analyst | Machine Learning | Deep Learning | AI Enthusiast* dedicated to solving real-world challenges using data-driven insights and intelligent models.  
+# 👋 Hi, I’m Sai Teja Kodati
 
-## 🔹 About Me  
-🎓 *Bachelor of Technology in Computer Science and Engineering*  
-📚 *Specialization:* Artificial Intelligence & Machine Learning  
-🏆 *CGPA:* 8.56 (Maintained above 75% in all semesters)  
-📊 *Semester-wise GPA:*  
-- *Semester 1:* 8.23  
-- *Semester 2:* 8.04  
-- *Semester 3:* 8.75  
-- *Semester 4:* 8.63  
-- *Semester 5:* 8.56  
-📍 *Location:* Faridabad,India,121003  
+🔭 I’m currently working on **1D Time‑Series Classification Models** for speckle image data  
+🌱 I’m learning **Advanced Deep Learning Architectures** and **Production‑Ready Deployments**  
+💡 I specialize in Computer Vision, NLP, and OCR‑driven data extraction  
+📫 Reach me at [saitejakodati6777@gmail.com](mailto:saitejakodati6777@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/kodati-sai-teja-572372255) · [Portfolio](#)
 
-## 🔹 Education
-🎓 *Bachelor of Technology (2022 - 2026)*  
-*Manav Rachna University, Faridabad*  
+---
 
-🏫 *Board of Intermediate Education Telangana (2020 - 2022)*  
-*Narayana Junior College, hyderabad*  
+## 🛠️ Technologies & Tools
 
-🏫 *Board of Secondary Education Telangana (2019 - 2020)*  
-*Ekashila CBSE/state Schools, warangal*  
+<p align="center">
+  <img alt="Python"       src="https://img.shields.io/badge/-Python-333333?&style=for-the-badge&logo=python" />
+  <img alt="TensorFlow"   src="https://img.shields.io/badge/-TensorFlow-333333?&style=for-the-badge&logo=tensorflow" />
+  <img alt="Keras"        src="https://img.shields.io/badge/-Keras-333333?&style=for-the-badge&logo=keras" />
+  <img alt="Scikit‑Learn" src="https://img.shields.io/badge/-scikit--learn-333333?&style=for-the-badge&logo=scikit-learn" />
+  <img alt="Pandas"       src="https://img.shields.io/badge/-Pandas-333333?&style=for-the-badge&logo=pandas" />
+  <img alt="NumPy"        src="https://img.shields.io/badge/-NumPy-333333?&style=for-the-badge&logo=numpy" />
+  <img alt="OpenCV"       src="https://img.shields.io/badge/-OpenCV-333333?&style=for-the-badge&logo=opencv" />
+  <img alt="NLTK"         src="https://img.shields.io/badge/-NLTK-333333?&style=for-the-badge&logo=nltk" />
+  <img alt="Streamlit"    src="https://img.shields.io/badge/-Streamlit-333333?&style=for-the-badge&logo=streamlit" />
+  <img alt="MongoDB"      src="https://img.shields.io/badge/-MongoDB-333333?&style=for-the-badge&logo=mongodb" />
+  <img alt="SQL"          src="https://img.shields.io/badge/-MySQL-333333?&style=for-the-badge&logo=mysql" />
+</p>
 
-## 🔹 Skills  
-💻 *Programming:* Python, SQL, Java, HTML, CSS, MySQL  
-📊 *Data & AI:* Machine Learning, Deep Learning, Computer Vision, NLP, Data Visualization  
-🛠 *Frameworks & Tools:* TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, NLTK  
-🌐 *Networking:* Cisco Packet Tracer, Network Security, Routing & Switching  
-✨ *Soft Skills:* Problem Solving, Time Management, Leadership, Communication  
+---
 
-## 🔹 Internship Experience  
-🔹 *Codsoft Internship (Machine Learning)*  
-- Developed ML models for *Credit Card Fraud Detection, SMS Spam Detection, and Customer Churn Prediction*.  
-- Built *Streamlit-based web applications* for real-time predictions.  
+## 🚀 Featured Projects
 
-🔹 *Cisco Networking Internship*  
-- Gained hands-on experience in *network configuration, routing, and troubleshooting*.  
-- Worked on *network simulations using Cisco Packet Tracer*.  
-- Explored *switching, MAC tables, VLANs, and network security concepts*.  
+### [Breast Cancer Classification](Breast-Cancer-Classification)  
+Implemented PCA + ensemble ML models (RF, SVM, LR) to achieve 96% accuracy in early detection.  
+🔧 *Tech:* Python · scikit‑learn · Matplotlib · Streamlit
 
-## 🔹 Projects
-🔹 *Breast Cancer Classification* – Implemented ML models for early cancer detection.  
-🔹 *Diabetes Classification* – Developed a predictive model for diabetes diagnosis.  
-🔹 *House Price Prediction* – Built a regression model to estimate house prices.  
-🔹 *Spam Classification* – Used NLP techniques to classify spam messages.  
-🔹 *Customer Churn Prediction* – Predicted customer retention using ML algorithms.  
-🔹 *Credit Fraud Detection* – Developed a fraud detection system using ML.  
-🔹 *Parkinson’s Disease Prediction using Images* – Classified spiral images using CNNs.  
-🔹 *Chatbot Chrome Extension* – Created an interactive chatbot using Gemini API.  
-🔹 *Simple Calculator using Tkinter* – Designed a GUI-based calculator in Python.  
+### [Parkinson’s Disease Detection (Spiral Images)](Parkinsons-Disease-Prediction)  
+Used ResNet‑1D & CNNs on 299‑class speckle data; achieved 94% classification accuracy.  
+🔧 *Tech:* Python · TensorFlow · Keras · OpenCV
 
-## 🔹 Research Papers  
-📄 *Parkinson’s Disease Classification using Deep Learning*  
-- Analyzed *Archimedean spiral drawings* to detect Parkinson’s disease.  
-- Used *ResNet50, MobileNet, EfficientNet, and XceptionNet* for classification and progression stage identification.  
+### [Chatbot Chrome Extension](Chatbot-Chrome-Extension)  
+Injects a Streamlit‑backed chatbot via Gemini API into any webpage for instant QA.  
+🔧 *Tech:* JavaScript · Streamlit · Gemini API
 
-📄 *Breast Cancer Prediction using Machine Learning*  
-- Conducted *Exploratory Data Analysis (EDA)* on breast cancer datasets.  
-- Implemented *ML models (Random Forest, SVM, Logistic Regression)* for early diagnosis.  
-- Achieved high *accuracy and precision* in classifying malignant and benign tumors.  
+### [Prescription OCR & Data Extraction](Prescription-OCR-Extraction)  
+OCR pipeline that extracts medication names, dosages, duration, and structures output in JSON/CSV.  
+🔧 *Tech:* Python · Tesseract · Pandas
 
-## 🔹 Extracurricular Activities  
-✍ *Research Paper Author* – Published papers on *Parkinson’s Disease Analysis* and *Breast Cancer Prediction*.  
-📢 *Tech Enthusiast* – Passionate about AI, ML, Networking, and Deep Learning innovations.  
+---
 
-## 🔹 Contact Me  
-📧 *Email:* saitejakodati6777@gmail.com  
-📱 *Phone:* +91 ***** *****  
-🔗 *LinkedIn:* https://www.linkedin.com/in/kodati-sai-teja-572372255/
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saitejakodati6777&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🎓 Education
+
+- **B.Tech in CSE (AI & ML)** (2022 – 2026)  
+  Manav Rachna University, Faridabad — CGPA: 8.56
+
+- **Intermediate (MPC)** (2020 – 2022)  
+  Narayana Junior College, Hyderabad
+
+- **SSC** (2019 – 2020)  
+  Ekashila CBSE/State Schools, Warangal
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:saitejakodati6777@gmail.com">✉️ Email</a> •
+  <a href="https://linkedin.com/in/kodati-sai-teja-572372255">🔗 LinkedIn</a>
+</p>
