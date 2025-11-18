@@ -14,7 +14,7 @@
 
 # 🛠️ Technologies & Tools
 
-### ⭐ Core Skills (From Resume — Prioritized)
+### ⭐ Core Skills 
 
 **Programming Languages:**  
 Python · Java · C · JavaScript · SQL · HTML · CSS  
@@ -30,7 +30,7 @@ MongoDB · MySQL
 
 ---
 
-### ⭐ AI/ML Skills (Reduced to Most Important)
+### ⭐ AI/ML Skills 
 
 TensorFlow · PyTorch · scikit-learn  
 OpenCV · Tesseract OCR · NLTK  
@@ -43,7 +43,7 @@ Streamlit · spaCy · Keras
 
 ---
 
-# 🚀 Major Projects (Resume — High Impact First)
+# 🚀 Major Projects 
 
 ## 1️⃣ Natural Language Query AI Assistant  
 **Live:** https://teja6777.pythonanywhere.com  
